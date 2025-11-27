@@ -79,5 +79,6 @@ Tier 3 locations contribute the highest revenue.
 Medium-sized outlets perform better than small or high-sized outlets.
 
 📌 4. Time-based Trends
+
 2018 recorded the highest sales spike.
 **
