@@ -1,25 +1,21 @@
 **🛒 Blinkit Sales Analysis  — Data Analytics Project
+
 📌 Project Overview
 
 This project analyzes the Blinkit grocery dataset to uncover key business insights using Excel, SQL, Python (Pandas, Matplotlib, Seaborn), and Power BI.
 The goal is to understand product performance, outlet behavior, customer ratings, and overall sales trends to support data-driven decision-making.
 
 This end-to-end project demonstrates my ability to:
+1) Clean and transform data
+2)Write SQL queries & create views
+3)Perform Exploratory Data Analysis (EDA)
+4)Build professional dashboards
+5)Deliver business insights and storytelling
+6)Document and present analysis clearly
 
-Clean and transform data
-
-Write SQL queries & create views
-
-Perform Exploratory Data Analysis (EDA)
-
-Build professional dashboards
-
-Deliver business insights and storytelling
-
-Document and present analysis clearly
-
-📂 Tech Stack Used
+📂 Tech Stack Used:
 Tool	Purpose
+
 Excel	Initial data cleaning and preparation
 SQL (MySQL)	Creating analytics-ready SQL Views
 Python (Pandas, Seaborn, Matplotlib)	EDA, visualizations, detailed analysis
