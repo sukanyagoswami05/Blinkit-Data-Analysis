@@ -7,8 +7,8 @@ The goal is to understand product performance, outlet behavior, customer ratings
 
 This end-to-end project demonstrates my ability to:
 
-1) Clean and transform data
-   
+1)Clean and transform data
+
 2)Write SQL queries & create views
 
 3)Perform Exploratory Data Analysis (EDA)
@@ -35,6 +35,7 @@ Power BI	Interactive dashboard & KPIs
 The dashboard includes:
 
 ✔ KPIs
+
 Total Sales: $1.20M+
 
 Avg Sales per Item: $141
@@ -44,6 +45,7 @@ Total Items: 8,523
 Avg Rating: 3.92
 
 ✔ Visuals
+
 Year-wise sales trend
 
 Fat content donut chart
@@ -57,6 +59,7 @@ Outlet type performance summary
 Category-wise insights
 
 🔍 Key Insights
+
 📌 1. Sales Performance
 
 Total sales crossed $1.20M across all outlets.
@@ -70,7 +73,9 @@ Regular Fat items generated 64% of total sales.
 Fruits & Vegetables and Snack Foods are top-selling categories.
 
 📌 3. Outlet & Location Insights
+
 Tier 3 locations contribute the highest revenue.
+
 Medium-sized outlets perform better than small or high-sized outlets.
 
 📌 4. Time-based Trends
